@@ -151,11 +151,4 @@ The app includes:
 - Optimized memory usage with rolling window
 - Responsive UI with < 100ms latency
 
-##  Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-
-
-This project is licensed under the MIT License.
 
